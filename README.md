@@ -1,3 +1,4 @@
+![How-to-Create-CSS-Avatar-Image-Using-HTML](https://user-images.githubusercontent.com/82109268/133270196-862e6317-39f5-4d86-a9d3-588248b457b0.jpg)
 # How-to-Create-Avatar-Using-HTML-CSS
 How to Create CSS Avatar Image Using HTML
 
